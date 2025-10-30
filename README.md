@@ -1,7 +1,7 @@
 # ZKPS (HLS) — Vitis-ready
 
 Self-contained HLS code for NTT and MSM streaming pipelines.  
-**Important:** the files under **`vitis/`** (`zkps.cpp`, `zkps.hpp`) are the **merged, single translation unit** intended for **`v++`**. All other sources are split for development, readability, and unit testing.
+The files under **`vitis/`** (`zkps.cpp`, `zkps.hpp`) are the **merged, single translation unit** intended for **`v++`**. All other sources are split for development, readability, and unit testing.
 
 ---
 
